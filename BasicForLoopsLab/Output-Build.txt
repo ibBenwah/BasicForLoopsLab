@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: BasicForLoopsLab, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Code\Unit2\BasicForLoopsLab\BasicForLoopsLab\BasicForLoopsLab\Program.cs(1,6,1,13): warning CS0219: The variable 'isAgain' is assigned but its value is never used
+1>BasicForLoopsLab -> C:\Code\Unit2\BasicForLoopsLab\BasicForLoopsLab\BasicForLoopsLab\bin\Debug\net6.0\BasicForLoopsLab.dll
+1>Done building project "BasicForLoopsLab.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
